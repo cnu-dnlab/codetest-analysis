@@ -1,11 +1,9 @@
 # codetest-analysis
 
-Code test data analysis
+- Code test data analysis
 
-## Caution
+# **[Caution]** **DO NOT COMMIT STUDENT DATA !!!**
 
-DO NOT COMMIT STUDENT DATA !!!
+## Analysis
 
-## Exercise managements
-
-  - Draw submit chart
+1. Classify testcase :: normal, timelimit, memorylimit
